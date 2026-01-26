@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```css
+# robin {
+  position: Managing Consultant;
+  background: technical-operations-consulting;
+  domains: [ecommerce, logistics, finance];
+  toolstack: [n8n, python, sql, apis];
+  color: white;
+  ships: reliably;
+  humor: dry;
+}
+```
