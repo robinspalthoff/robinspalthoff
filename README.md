@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 # robin {
   position: Managing Consultant;
   domains: [ecommerce, logistics, finance];
-  color: white;
   ships: reliably;
   humor: dry;
 }
