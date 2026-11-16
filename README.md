@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ```css
 # robin {
-  position: Managing Consultant;
+  position: Strategic Lead Digital Transformation & AI 
   domains: [ecommerce, logistics, finance];
   ships: reliably;
   humor: dry;
